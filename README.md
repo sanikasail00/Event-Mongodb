@@ -13,12 +13,15 @@ Features Implemented
 | 7️ | GET | `/api/bookings/filter?event=EventName` | Filter booking by event |
 
 --Install Dependencies:
+
 npm install
 
 --Create a .env File:
+
 MONGO_URI=mongodb+srv://<your-username>:<your-password>@cluster0.qqs64.mongodb.net/?appName=Cluster0
 
 --Run the Server
+
 node server.js
 
 --Folder Structure
